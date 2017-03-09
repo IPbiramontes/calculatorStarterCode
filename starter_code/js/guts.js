@@ -41,5 +41,5 @@ return Math.log10(x) ;
 
 function generateRandomNumber()
 {
-return Math.random() ;	
+return Math.random() * 20 ;	
 }
